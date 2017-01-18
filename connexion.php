@@ -2,7 +2,7 @@
 include('header.php');
     ?>
 <div id="form">
-    <form action="post" action="#">
+    <form action="post" action="profile.php">
 
         <label for="pseudo">Pseudo</label><br>
         <input type="text" name="pseudo" id="pseudo" autofocus><br>

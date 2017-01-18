@@ -2,7 +2,7 @@
     include('header.php');
 ?>
 <div id="form_insc">
-    <form action="#" method="post">
+    <form action="profile.php" method="post">
 
         <label for="id">Identifiant</label>
         <input type="text" name="id" id="id" autofocus><br>
