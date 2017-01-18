@@ -1,0 +1,129 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#header {
+    padding: 50px 20px;
+    height: 100vh;
+    background: url(../images/header_bg.jpg);
+}
+#header #logo {
+    text-align: center;
+}
+a,
+#footer .widget p a,
+#footer .widget ul.side-newsfeed li h4 a,
+.post-author .author-info .author-connect span.connect-text,
+.post-entry blockquote p,
+.item span.category a,
+#footer .widget a:hover {
+    color: #ff502e;
+}
+.item .item-image .review-box,
+.thecomment span.reply a.comment-reply-link,
+#respond #submit,
+.post-review .review-top .overall-score,
+.post-review .review-criteria .criteria .thescore,
+.flex-control-paging li a.flex-active,
+.content.sidebar ul.newsfeed.classic li .item .item-image .review-box,
+#sidebar .widget ul.side-newsfeed li .side-item .side-image .review-box {
+    background: #ff502e;
+}
+body {
+    background-color: #f2f2f2;
+}
+.wrapper {
+    border-right: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+}
+#navigation_bar,
+.mean-container .mean-bar,
+.mean-container .mean-nav {
+    background: #000000;
+}
+#navigation ul li a {
+    color: #ffffff;
+}
+#navigation ul li a:hover {
+    color: #999999;
+}
+#navigation ul li ul li a {
+    background: #000000;
+}
+#navigation ul li ul li a:hover {
+    background: #444444;
+}
+#navigation ul li ul li a {
+    border-color: #444444;
+}
+#navigation ul li ul li a {
+    color: #aaaaaa;
+}
+#navigation ul li ul li a:hover {
+    color: #ffffff;
+}
+#logo h1{
+    color: #CECECE;
+    font-family: Roboto;
+    font-size: 177%;
+    padding-top: 3% ;
+    margin-bottom: -2%;
+}
+#featured_area p{
+    color: #3B3C3E;
+    font-family: Roboto;
+    font-size: 135%;
+}
+h2.content-heading {
+    background: #000000;
+}
+h2.content-heading,
+h2.content-heading span.thin,
+h2.content-heading a {
+    color: #ffffff;
+}
+#sidebar .widget h3.widget_title,
+#sidebar .widget .tabs-wrapper ul.tabs {
+    background: #ff502e;
+}
+#sidebar .widget h3.widget_title,
+#sidebar .widget .tabs-wrapper ul.tabs li.active a {
+    color: #ffffff;
+}
+#top_social i,
+#footer_social i {
+    background: #FFFFFF;
+}
+#top_social i,
+#footer_social i {
+    color: #000000;
+}
+#footer {
+    background: #000000;
+}
+.container.footer,
+.footer_top,
+.widget_area {
+    border-color: #333333;
+}
+#footer .widget,
+#footer .widget p,
+#footer .side-item-meta,
+.footer_bottom {
+    color: #888888;
+}
+#footer .widget h3.widget_title {
+    color: #FFFFFF;
+}
+#footer .widget a,
+#footer .widget p a,
+#footer .widget ul.side-newsfeed li h4 a,
+#footer .widget a:hover {
+    color: #ff502e;
+}
+.footer_navigation ul li a {
+    color: #FFFFFF;
+}
+.footer_navigation ul li a:hover {
+    color: #999999;
+}
